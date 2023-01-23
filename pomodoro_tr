@@ -1,1 +1,246 @@
 
+[
+ {
+     "id" : 1,
+     "text" : "Büyük adam olmak istiyorsan, izin almamaya alış."
+ },
+ {
+     "id" : 2,
+     "text" : "Her zaman yaptıklarına devam edersen, aynı kalırsın."
+ },
+ {
+     "id" : 3,
+     "text" : "Gelecekteki başarılarımız, tamamen hayatımızdaki her saniyenin nasıl kullanıldığına göre belirlenir, gelecek, birçok şimdinin birikimidir"
+ },
+ {
+     "id" : 4,
+     "text" :   "Elbet bir gün ya da gün bir. SEÇ"
+  
+ },
+ {
+     "id" : 5,
+     "text" : "Bugün hedeflerinin başlangıç günü olabilir. Harakete geç!"
+ },
+ {
+     "id" : 6,
+     "text" : "Güneşe yürümek kolay, sen ip üzerinde yürü ki farkı olasın."
+    
+ },
+ {
+     "id" : 7,
+     "text" :  "Başarıya giden yolda asansör yok, merdivenleri çıkmalısın."
+
+ },
+ {
+     "id" : 8,
+     "text" : "Her insanın ortak yönü başarısız olmasıdır."
+     
+ },
+ {
+     "id" : 9,
+     "text" :  "Bir roket gemisinde size koltuk teklif edilirse, hangi koltuk diye sormayın! Devam et."
+ },
+ {
+     "id" : 10,
+     "text" : "Tekrar tekrar yaptığımız şey biziz. O halde mükemmellik bir eylem değil, bir alışkanlıktır."
+   
+ },
+ {
+      "id" : 11,
+      "text" :  "Yaz. Vur. İt. Kır. Ne fark eder?. BAŞAR."
+  },
+  {
+      "id" : 12,
+      "text" : "Her zaman doğru kararları vermeyeceğimizi, bazen asil bir şekilde batıracağımızı kabul etmeliyiz  başarısızlığın başarının tersi olmadığını, başarının bir parçası olduğunu anlamalıyız."
+  },
+  {
+      "id" : 13,
+      "text" :   "İnsanlar konuşuyorsa, onları duyamayacak kadar iyi pozisyonlara yüksel"
+  },
+  {
+      "id" : 14,
+      "text" :  "Her sabah uyanıyorum ve kendi kendime 'Bu vücudu  önümüzdeki 24 saat içinde ne kadar zorlayabilirim' diye düşünüyorum."
+  },
+  {
+      "id" : 15,
+      "text" :  "Pes etmeyen birini yenmek zordur."
+  },
+  {
+      "id" : 16,
+      "text" :   "Sadece İsteyen alır."
+  },
+  {
+      "id" : 17,
+      "text" :  "Bir ağaç dikmek için en iyi zaman 20 yıl önceydi. İkinci en iyi zaman şimdi.."
+  },
+  {
+      "id" : 18,
+      "text" :  "Kendinizi sınırlamayın. Birçok insan kendilerini yapabileceklerini düşündükleri şeylerle sınırlar. Aklının izin verdiği kadar ileri gidebilirsin. Neye inanırsan, onu başarabileceğini hatırla."
+  },
+  {
+      "id" : 19,
+      "text" :  "Dünyayı değiştirebileceklerini düşünecek kadar çılgın olanlar, yapanlardır."
+  },
+  {
+      "id" : 20,
+      "text" :   "İlerlemenin sırrı başlamaktır."
+  },
+
+ 
+ {
+      "id" : 21,
+      "text" :  "Peşlerinden gidecek cesaretimiz varsa, tüm hayallerimiz gerçek olabilir."
+  },
+  {
+      "id" : 22,
+      "text" :  "Sessiz çalış, bırak başarın konuşsun."
+  },
+  {
+      "id" : 23,
+      "text" :   "Aklınızdaki korkular tarafından itilip kakılmayın. Kalbinizdeki rüyalar tarafından yönlendirilin."
+     
+  },
+  {
+      "id" : 24,
+      "text" :  "Şans kapını çalmıyorsa, kapıyı inşaa et."
+    
+  },
+  {
+      "id" : 25,
+      "text" :  "Doğru bir yol ile dünyayı sallayabilirsin.."
+     
+  },
+  {
+      "id" : 26,
+      "text" : "Şimdi yeni bir hipotez denedim: Mutluluğumdan kendime izin verdiğimden daha fazla sorumlu olmam mümkündü."
+
+  },
+  {
+      "id" : 27,
+      "text" : "Memnuniyetle yatacaksan, her sabah kararlılıkla kalkmalısın."
+      
+  },
+  {
+      "id" : 28,
+      "text" : "Hiç bir eserin bir tembel tarafından yapıldığını gördünüz mü?"
+      
+  },
+  {
+      "id" : 29,
+      "text" : "En azından dikkate değer bir şey yapmaya çalışmazsan, hayatta olmanın ne anlamı var?"
+      
+  },
+
+ 
+ 
+ {
+     "id" : 30,
+     "text" : "Hayatı yaşamak için iyi bir kural, kalbi kafadan biraz daha yumuşak tutmaktır."
+     
+ },
+ {
+     "id" : 31,
+     "text" : "Mutluluğa giden yolda yorulmak zorundasın."
+     
+ },
+ {
+     "id" : 32,
+     "text" : "Sesini yükseltme, kanıtlarını arttır."
+     
+ },
+ {
+     "id" : 33,
+     "text" : "Alışmış gibi kazanın, bir değişiklik için zevk alıyormuş gibi kaybedin."
+     
+ },
+ {
+     "id" : 34,
+     "text" : "Herhangi bir şeyi yapabilirsin ama her şeyi yapamazsın."
+     
+ },
+ {
+     "id" : 35,
+     "text" : "Herkes piyano çalabilir, ama sadece tutkulu olanlar eser çıkartabilir. Hayat böyledir."
+     
+ },
+ {
+     "id" : 36,
+     "text" : " \"Yapamam\" korkakların işidir, \"denerim\" bazıların işidir. \"Yapacağım\" ise cesurların işidir "
+     
+ },
+ {
+     "id" : 37,
+     "text" : "Surları aşmak istiyorsan kova kullanma. Dalga yarat"
+     
+ },
+ {
+     "id" : 38,
+     "text" : "Tek sınırın düşüncelerin. "
+     
+ },
+ {
+     "id" : 39,
+     "text" : "Bir kere konuşmadan önce iki kere düşünürsen, bunun için daha iyi konuşursun"
+     
+ },
+ {
+     "id" : 40,
+     "text" : "Kendinin en iyi versiyonu ol"
+     
+ },
+ {
+     "id" : 41,
+     "text" : "Başaranın planı olduğu için başardı. Başaramayan ise her zaman bahaneye sahipti."
+     
+ },
+ {
+     "id" : 42,
+     "text" : "Geçmişi unut. Geçmişte başarısız olanlar gelecekte başarılı olmak için ilk adımı attı."
+     
+ },
+ {
+     "id" : 43,
+     "text" : "Çocuklar ve adamlar arasındaki tek fark tecrübeleri"
+     
+ },
+ {
+     "id" : 44,
+     "text" : "Dünyanın en zor işi hiç bir şey yapmamak."
+     
+ },
+ {
+     "id" : 45,
+     "text" : "Akşam 5'te plan yapacaksan sabah 5'te kalkacaksın."
+     
+ },
+ {
+     "id" : 46,
+     "text" : "İnsanlar hep konuşur. Sen hep dinle."
+     
+ },
+ {
+     "id" : 47,
+     "text" : "Gelişme için çabala mükemmellik için değil."
+     
+ },
+ {
+     "id" : 48,
+     "text" : "Herkes mutluluk ister, kimse acı istemez. Ufak bir yağmur bile gökkuşağı çıkartabilir. DENE"
+     
+ },
+ {
+     "id" : 49,
+     "text" : "Sevgili Şans, herkesi kıl payı kaçırıyorsun :)"
+     
+ },
+ {
+     "id" : 50,
+     "text" : "Duvarlar gökten inmedi, yavaş yavaş oluştu"
+     
+ }
+ 
+
+ ]
+
+
+
