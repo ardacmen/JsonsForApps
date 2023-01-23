@@ -1,1 +1,242 @@
 
+   [
+    {
+        "id" : 1,
+        "text" : "If you want to achieve greatness, stop asking for permission."
+    },
+    {
+        "id" : 2,
+        "text" : "If you do what you always did, you will get what you always got"
+    },
+    {
+        "id" : 3,
+        "text" : "Our future accomplishments are determined entirely by how every second in our life is put to a use the future is the cumulation of many now."
+    },
+    {
+        "id" : 4,
+        "text" :   "One day or day one. You decide."
+     
+    },
+    {
+        "id" : 5,
+        "text" : "It’s Monday  time to motivate and make dreams and goals happen. Let’s go!"
+    },
+    {
+        "id" : 6,
+        "text" : "It was a Monday and they walked on a tightrope to the sun."
+       
+    },
+    {
+        "id" : 7,
+        "text" :  "There is no elevator to success. You have to take the stairs."
+  
+    },
+    {
+        "id" : 8,
+        "text" : "Nothing in the world is more common than unsuccessful people with talent."
+        
+    },
+    {
+        "id" : 9,
+        "text" :  "If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on."
+    },
+    {
+        "id" : 10,
+        "text" : "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
+      
+    },
+    {
+        "id" : 11,
+        "text" :  "Write it. Shoot it. Publish it. Crochet it. Sauté it. Whatever. MAKE."
+    },
+    {
+        "id" : 12,
+        "text" : "We need to accept that we won’t always make the right decisions, that we’ll screw up royally sometimes―understanding that failure is not the opposite of success, it’s part of success."
+    },
+    {
+        "id" : 13,
+        "text" :   "If people are doubting how far you can go, go so far that you can’t hear them anymore."
+    },
+    {
+        "id" : 14,
+        "text" :  "I wake up every morning and think to myself, ‘How far can I push this company in the next 24 hours."
+    },
+    {
+        "id" : 15,
+        "text" :  "It’s hard to beat a person who never gives up."
+    },
+    {
+        "id" : 16,
+        "text" :   "Only the paranoid survive."
+    },
+    {
+        "id" : 17,
+        "text" :  "The best time to plant a tree was 20 years ago. The second best time is now."
+    },
+    {
+        "id" : 18,
+        "text" :  "Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve."
+    },
+    {
+        "id" : 19,
+        "text" :  "The ones who are crazy enough to think they can change the world, are the ones who do."
+    },
+    {
+        "id" : 20,
+        "text" :   "The secret of getting ahead is getting started."
+    },
+    {
+        "id" : 21,
+        "text" :  "All our dreams can come true, if we have the courage to pursue them."
+    },
+    {
+        "id" : 22,
+        "text" :  "Work hard in silence, let your success be the noise."
+    },
+    {
+        "id" : 23,
+        "text" :   "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart."
+       
+    },
+    {
+        "id" : 24,
+        "text" :  "If opportunity doesn’t knock, build a door."
+      
+    },
+    {
+        "id" : 25,
+        "text" :  "In a gentle way, you can shake the world."
+       
+    },
+    {
+        "id" : 26,
+        "text" : "I now tried a new hypothesis: It was possible that I was more in charge of my happiness than I was allowing myself to be."
+
+    },
+    {
+        "id" : 27,
+        "text" : "You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction."
+        
+    },
+    {
+        "id" : 28,
+        "text" : "No masterpiece was ever created by a lazy artist."
+        
+    },
+    {
+        "id" : 29,
+        "text" : "What’s the point of being alive if you don’t at least try to do something remarkable."
+        
+    },
+    {
+        "id" : 30,
+        "text" : "A good rule for going through life is to keep the heart a little softer than the head"
+        
+    },
+    {
+        "id" : 31,
+        "text" : "Happiness walks on busy feet."
+        
+    },
+    {
+        "id" : 32,
+        "text" : "Don’t raise your voice, improve your argument."
+        
+    },
+    {
+        "id" : 33,
+        "text" : "Win as if you were used to it, lose as if you enjoyed it for a change."
+        
+    },
+    {
+        "id" : 34,
+        "text" : "You can do anything, but not everything."
+        
+    },
+    {
+        "id" : 35,
+        "text" : "Life is like a piano. Anyone can play a song through meaningless repetition, but it takes passion to play a masterpiece."
+        
+    },
+    {
+        "id" : 36,
+        "text" : "I can’t” is a coward, “I’ll try” is a soldier, “I will” is a king."
+        
+    },
+    {
+        "id" : 37,
+        "text" : "Don’t go into something to test the waters, go into things to make waves"
+        
+    },
+    {
+        "id" : 38,
+        "text" : "Your only limitation is your imagination."
+        
+    },
+    {
+        "id" : 39,
+        "text" : "If you think twice before you speak once, you will speak better for it"
+        
+    },
+    {
+        "id" : 40,
+        "text" : "Be a perfect version of yourself"
+        
+    },
+    {
+        "id" : 41,
+        "text" : "The winner always has a plan; The loser always has an excuse."
+        
+    },
+    {
+        "id" : 42,
+        "text" : "Forget the past. No one becomes successful in the past."
+        
+    },
+    {
+        "id" : 43,
+        "text" : "The difference between men and boys is the price of their experience."
+        
+    },
+    {
+        "id" : 44,
+        "text" : "Doing nothing is the hardest work of all."
+        
+    },
+    {
+        "id" : 45,
+        "text" : "if you want to make a dream on  5 p.m. live in 5 a.m."
+        
+    },
+    {
+        "id" : 46,
+        "text" : "peoples always talk. you should always listen"
+        
+    },
+    {
+        "id" : 47,
+        "text" : "Strive for progress, not perfection."
+        
+    },
+    {
+        "id" : 48,
+        "text" : "Everybody wants happiness, nobody wants pain, but you can’t have a rainbow without a little rain."
+        
+    },
+    {
+        "id" : 49,
+        "text" : "Dear Karma, I have a list of people that you missed."
+        
+    },
+    {
+        "id" : 50,
+        "text" : "Walls didn't come down from the sky, they formed slowly "
+        
+    }
+    
+    
+   
+
+    ]
+
+
